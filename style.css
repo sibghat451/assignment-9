@@ -1,0 +1,25 @@
+#abc {
+    background-color: aqua;
+}
+
+h3.cyz {
+    background-color: green;
+}
+
+p.xyz {
+    background-color: yellow;
+}
+#op{
+    background-color: blueviolet;
+}
+
+li>  b{
+    background-color: red;
+    color: yellow;
+}
+h2>p{
+    background-color: blue;
+}
+h2{
+    background-color: azure;
+}
